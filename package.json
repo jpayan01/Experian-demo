@@ -1,0 +1,22 @@
+{
+  "name": "experian-demo",
+  "version": "1.0.0",
+  "description": "Experian automation demo framework",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpayan01/Experian-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpayan01/Experian-demo/issues"
+  },
+  "homepage": "https://github.com/jpayan01/Experian-demo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.46.1",
+    "@types/node": "^22.5.0"
+  }
+}
